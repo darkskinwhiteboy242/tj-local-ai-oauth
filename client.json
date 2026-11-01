@@ -1,0 +1,28 @@
+{
+  "client_name": "TJ Local AI Apps",
+  "client_uri": "https://github.com/darkskinwhiteboy242",
+  "redirect_uris": [
+    "http://localhost:46701/oauth/callback",
+    "http://localhost:46702/oauth/callback",
+    "http://localhost:46703/oauth/callback",
+    "http://localhost:46704/oauth/callback",
+    "http://localhost:46705/oauth/callback",
+    "http://localhost:46706/oauth/callback",
+    "http://localhost:46707/oauth/callback",
+    "http://localhost:46708/oauth/callback",
+    "http://localhost:46709/oauth/callback",
+    "http://localhost:46121/callback",
+    "http://localhost:46121/oauth/callback",
+    "http://127.0.0.1:46121/callback",
+    "http://127.0.0.1:46121/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "client_id": "https://darkskinwhiteboy242.github.io/tj-local-ai-oauth/client.json"
+}
